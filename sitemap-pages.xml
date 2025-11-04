@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.schnupperschuppen.de/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+
+  <!-- Duftfinder / Beratung -->
+  <url><loc>https://www.schnupperschuppen.de/pages/duftberater</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Deine Shop-Pfadseiten (ersetzen durch DEINE echten URLs) -->
+  <url><loc>https://www.schnupperschuppen.de/pages/shop-parfum</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.schnupperschuppen.de/pages/sorgenta</loc></url>
+  <url><loc>https://www.schnupperschuppen.de/pages/halbea</loc></url>
+  <url><loc>https://www.schnupperschuppen.de/pages/halbea-elixir</loc></url>
+  <url><loc>https://www.schnupperschuppen.de/pages/halbea-elixir-damen</loc></url>
+  <url><loc>https://www.schnupperschuppen.de/pages/halbea-elixir-herren</loc></url>
+  <url><loc>https://www.schnupperschuppen.de/pages/halbea-elixir-unisex</loc></url>
+  <url><loc>https://schnupperschuppen.de/collections/all</loc></url>
+  <url><loc>https://schnupperschuppen.de/pages/berater-werden</loc></url>
+  <url><loc>https://schnupperschuppen.de/pages/business-tipps</loc></url>
+  <url><loc>https://schnupperschuppen.de/pages/sorgenta</loc></url>
+
+  <!-- Vertrauen -->
+  <url><loc>https://www.schnupperschuppen.de/pages/ueber-uns</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.schnupperschuppen.de/pages/kontakt</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+</urlset>
